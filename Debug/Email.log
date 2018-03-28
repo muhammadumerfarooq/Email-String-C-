@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Email.cpp
+e:\workplace\email\email.cpp(245): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(343): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(355): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(367): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(379): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(392): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(542): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(558): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(567): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(577): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(585): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(594): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(665): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\email\email.cpp(636): warning C4101: 's': unreferenced local variable
+  Email.vcxproj -> E:\WorkPlace\Email\Debug\Email.exe
+  Email.vcxproj -> E:\WorkPlace\Email\Debug\Email.pdb (Full PDB)
